@@ -1,12 +1,12 @@
 <img src="Images/github_banner.jpeg" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Luis Osorio.</h1>
-<h3 align="center">Data Driven with a penchant for crunching numbers and believes in good data practices.</h3>
+<h3 align="center">Data Driven with a passion for crunching numbers and believes in good data practices.</h3>
 
-- 🔭 Learn **Python Libraries & More: Pandas, Matplotlib, Seaborn, BeautifulSoup, OS, OOP, Interview Questions.** from: [Python Code References.](https://github.com/luisosorio3214/Python-Code-References)
-<!-- - 📝 Take a look at my **Personal** Website: [www.priyankajha24.wixsite.com](https://priyankajha24.wixsite.com/aboutme) -->
+- 🔭 Learn **Python COde & Libraries: Pandas, Matplotlib, Seaborn, BeautifulSoup, Operating Systems, Object Oriented Programming, Interview Questions** from: [Python Code References.](https://github.com/luisosorio3214/Python-Code-References)
+<!-- - 📝 Take a look at my **Personal** Website: [www.luisosorio.com](https://luisosorio.com/aboutme) -->
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Portfolio Repo.](https://github.com/luisosorio3214/Data-Analyst-Portfolio-Repo)
 
-- 👨‍💻 My **Power BI** Projects are at: [Power Bi Dashboards.](https://github.com/luisosorio3214/Power-BI-Dashboards)
+- 👨‍💻 My **Power BI** Projects are at: [Power BI Dashboards.](https://github.com/luisosorio3214/Power-BI-Dashboards)
 
 - 📫 Email me at: **luisosorio3214@gmail.com**
 
