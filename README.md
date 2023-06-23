@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Luis Osorio.</h1>
 <h3 align="center">Data Driven with a passion for crunching numbers and believes in good data practices.</h3>
 
-- 🔭 Learn **Python COde & Libraries: Pandas, Matplotlib, Seaborn, BeautifulSoup, Operating Systems, Object Oriented Programming, Interview Questions** from: [Python Code References.](https://github.com/luisosorio3214/Python-Code-References)
+- 🔭 Learn **Python Code & Libraries: Pandas, Matplotlib, Seaborn, BeautifulSoup,<br> Operating Systems, Object Oriented Programming, Interview Questions** from: [Python Code References.](https://github.com/luisosorio3214/Python-Code-References)
 <!-- - 📝 Take a look at my **Personal** Website: [www.luisosorio.com](https://luisosorio.com/aboutme) -->
 - 🌱 My **Portfolio Projects** are in: [Data Analyst Portfolio Repo.](https://github.com/luisosorio3214/Data-Analyst-Portfolio-Repo)
 
