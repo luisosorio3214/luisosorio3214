@@ -10,7 +10,7 @@
 
 - 📫 Email me at: **luisosorio3214@gmail.com**
 
-- ⚡ Fun Fact: **I love going to the gym and learning new topics.**
+- ⚡ Fun Fact: **I love going to the gym and like listening to music 😀.**
 
 - 🤔 Working On:
   1. Organizing my ML Notebooks
