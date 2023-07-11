@@ -1,4 +1,4 @@
-<img src="Images/github_banner.jpeg" width="840" height="200" allow="autoplay">
+<img src="Images/git_scientist.png" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Luis Osorio.</h1>
 <h3 align="center">Data Driven with a passion for crunching numbers and believes in good data practices.</h3>
 
