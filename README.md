@@ -3,17 +3,18 @@
 <h3 align="center">Data Driven with a passion for crunching numbers and believes in good data practices.</h3>
 
 <div>
-  <h2>🔭 About Me <img src="https://komarev.com/ghpvc/?username=luisosorio3214&color=green" title="Page View Count"></h2>
+  <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=luisosorio3214&color=green" title="Page View Count"></h2>
   <p>
-    My name is Luis and I am a mathematician who utilize logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. I love to create visualizations using several python packages such as Pandas, Matplotlib, Plotly and more. I also utilize Power Bi to make dashboard reports with essential KPI's and clean data using Power Query Editor. Some of Statistical techniques I commonly use are correlation analysis, t-test, chi-square, anova/manova, and many more. I know how to setup up proper experimentation setups and utilize A/B testing to check results. My strong foundation in Mathematics allows me to fully grasp the process of machine learning with my Linear Algebra, Multivariable calculus, Optimization and Probability to ensure the best models with the correct assumptions. I love to learn about data and I keep up with the latest news by reading the latest research papers in machine learning, Medium for up to date data techniques, and follow the leaders in Artificial Intelligence.  <br>
-    
+    My name is Luis and I am a mathematician who utilize logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. I love to create visualizations using several python packages such as Pandas, Matplotlib, Plotly and more. I also utilize Power Bi to make dashboard reports with essential KPI's and clean data using Power Query Editor. Some of Statistical techniques I commonly use are correlation analysis, t-test, chi-square, anova/manova, and many more. I know how to setup up proper experimentation setups and utilize A/B testing to check results. My strong foundation in Mathematics allows me to fully grasp the process of machine learning with my Linear Algebra, Multivariable calculus, Optimization and Probability to ensure the best models with the correct assumptions. I love to learn about data and I keep up with the latest news by reading the latest research papers in machine learning, Medium for up to date data techniques, and follow the leaders in Artificial Intelligence.
+  </p>
+  <p>
     In the future I see myself sharing my knowledge and helping others learn. I see myself creating full tutorials on projects that relate to Data Science and Data Engineering on my GitHub. I plan to start writing blogs on Medium and uploading more work onto Kaggle. I hope to inspire new comers into the world of Data by taking a simplistic approach in my methods that will motivate them to grow. 
   </p>
 </div>
 
 <div>
-  <h2>🌐 Socials </h2>
-  <p>
+  <h2 align="center">🌐 Socials </h2>
+  <p align="center">
     <a href="https://www.linkedin.com/in/luisosorio3214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
     <a href="https://github.com/luisosorio3214" target="_blank"><img src="https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white" title="GitHub"></a>
     <a href="https://www.kaggle.com/luisosorio3214" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" title="Kaggle"></a>
