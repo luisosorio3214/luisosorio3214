@@ -83,17 +83,19 @@
 
 <div>
   <h2 align="center">📊 GitHub Stats</h2>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisosorio3214&show_icons=true&locale=en&layout=compact" alt="luisosorio3214" /></p>
+  <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisosorio3214&show_icons=true&locale=en&layout=compact" alt="luisosorio3214" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisosorio3214&show_icons=true&locale=en" alt="luisosorio3214" /></p>
 </div>
 
 <div>
   <h2 align="center">⚡ Interesting Quote</h2>
-  <code>
-    "Data! Data Data! I can’t make bricks without clay!" <br>
-    - Arthur Conan Doyle, Writer and Physician
-  </code>
+  <p align="center">
+    <code>
+      "Data! Data Data! I can’t make bricks without clay!" <br>
+      - Arthur Conan Doyle, Writer and Physician
+    </code>
+  </p>
 </div>
 
 
