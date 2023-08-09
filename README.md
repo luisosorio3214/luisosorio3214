@@ -85,7 +85,7 @@
   <h2 align="center">📊 GitHub Stats</h2>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisosorio3214&show_icons=true&locale=en&layout=compact" alt="luisosorio3214" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisosorio3214&show_icons=true&locale=en" alt="luisosorio3214" /></p>
+  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=luisosorio3214&show_icons=true&locale=en" alt="luisosorio3214" /></p>
 </div>
 
 <div>
